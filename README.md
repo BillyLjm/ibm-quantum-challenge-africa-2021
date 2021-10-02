@@ -5,7 +5,7 @@ The original challenge repository is at [/qiskit-community/ibm-quantum-challenge
   
 ## Challenge Details  
 __Site:__ [ibm.co/ibmQuantumAfrica21](https://ibm.co/ibmQuantumAfrica21)  
-__Date:__ May 2021  
+__Date:__ September 2021  
   
 ## Certificate  
 Here's a screenshot of my challenge portal dashboard.  
